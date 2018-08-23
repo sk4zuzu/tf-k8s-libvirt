@@ -1,0 +1,6 @@
+*.swp
+.vscode/
+.terraform/
+*.tfstate*
+crash.log
+.cache/
